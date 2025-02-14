@@ -8,7 +8,7 @@
 float conversion(float fahr);
 
 int main() {
-	float fahr, celsius;
+	float fahr;
 	int lower, upper, step;
 
 	lower = 0;    /* limite inferior de la tabla de temperaturas */
